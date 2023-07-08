@@ -1,0 +1,38 @@
+label{
+    color: #fff;
+    text-size-adjust: 30px;
+}
+/* CABECERA */
+.division-header{
+    margin: 80px 0px 0px 0px;
+}
+
+.navbar{
+    background-color: #fff;
+}
+
+#linkCabecera{
+    color: #000000;
+    margin-left: 40px;
+}
+.formulario{
+    padding: auto;
+    margin: 10%;
+    color: #fff;
+    text-align: center; 
+}
+
+footer{
+    background-color: #212529;
+    height: 10%;
+    color: #f4b30e;
+}
+p{
+    font-family: 'Assistant', sans-serif;
+}
+
+.campo{
+    width: 300px;
+    font-size: 18px;
+    
+}
